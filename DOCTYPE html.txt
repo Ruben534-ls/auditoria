@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ruben Lague - Auditoría Gubernamental y Gestión Pública</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding: 1rem;
+            text-align: center;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            background: #555;
+        }
+        nav a {
+            color: #fff;
+            padding: 1rem;
+            text-decoration: none;
+            text-transform: uppercase;
+        }
+        nav a:hover {
+            background: #444;
+        }
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h2 {
+            color: #333;
+            border-bottom: 2px solid #333;
+            padding-bottom: 10px;
+        }
+        p {
+            margin-bottom: 1.5rem;
+        }
+        footer {
+            background: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1rem;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Ruben Lague Saravia</h1>
+        <p>Servicios de Auditoría Gubernamental y Gestión Pública en Bolivia</p>
+    </header>
+
+    <nav>
+        <a href="#sobre-mi">Sobre Mí</a>
+        <a href="#servicios">Servicios</a>
+        <a href="#proyectos">Proyectos</a>
+        <a href="#contacto">Contacto</a>
+    </nav>
+
+    <div class="container">
+        <section id="sobre-mi">
+            <h2>Sobre Mí</h2>
+            <p>Soy Ruben Lague Saravia, Auditor Financiero especializado en auditoría gubernamental y gestión pública. Tengo una maestría en Administración de Empresas y Gestión Pública por la Universidad Siglo XX y una amplia experiencia en diversos roles dentro del sector público y privado.</p>
+            <p>He trabajado como auditor interno, consultor de línea, jefe de auditoría interna y jefe del departamento de contabilidad en la Empresa Metalúrgica Vinto. Además, soy docente en la Universidad Privada de Oruro, impartiendo clases en la carrera de auditoría.</p>
+        </section>
+
+        <section id="servicios">
+            <h2>Servicios</h2>
+            <p>Ofrezco los siguientes servicios:</p>
+            <ul>
+                <li>Auditoría Gubernamental</li>
+                <li>Gestión Pública</li>
+                <li>Consultoría en procesos de auditoría y control interno</li>
+                <li>Asesoramiento en normativa contable y tributaria</li>
+                <li>Capacitación en temas de auditoría y finanzas</li>
+            </ul>
+        </section>
+
+        <section id="proyectos">
+            <h2>Proyectos</h2>
+            <p>A lo largo de mi carrera, he participado en los siguientes proyectos destacados:</p>
+            <ul>
+                <li>Auditor interno en el Servicio Departamental de Gestión Social, Prefectura de Oruro</li>
+                <li>Consultor de línea en la Contraloría General del Estado, Gerencia Departamental de Oruro</li>
+                <li>Jefe de Auditoría Interna en la Empresa Metalúrgica Vinto</li>
+                <li>Gerente Administrativo Financiero en la Empresa Metalúrgica Vinto</li>
+            </ul>
+        </section>
+
+        <section id="contacto">
+            <h2>Contacto</h2>
+            <p>Puedes contactarme a través de los siguientes medios:</p>
+            <p>Dirección: Prolongación Charcas #163, Barrio Minero San Jose, Oruro, Bolivia</p>
+            <p>Teléfono: 5211183</p>
+            <p>Celular: 72353013</p>
+            <p>Correo Electrónico: <a href="mailto:lague.ruben@gmail.com">lague.ruben@gmail.com</a></p>
+        </section>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 Ruben Lague Saravia</p>
+    </footer>
+</body>
+</html>
